@@ -35,5 +35,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <constants>Constant.Константа</constants>
   <catalogs>Catalog.Контрагенты</catalogs>
 </mdclass:Configuration>
