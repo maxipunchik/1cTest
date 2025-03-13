@@ -37,4 +37,5 @@
   </languages>
   <constants>Constant.Константа</constants>
   <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
 </mdclass:Configuration>
