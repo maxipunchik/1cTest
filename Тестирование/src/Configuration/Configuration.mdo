@@ -38,4 +38,5 @@
   <constants>Constant.Константа</constants>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Банки</catalogs>
 </mdclass:Configuration>
