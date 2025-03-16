@@ -36,6 +36,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <constants>Constant.Константа</constants>
+  <constants>Constant.ДопРазработка</constants>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Банки</catalogs>
