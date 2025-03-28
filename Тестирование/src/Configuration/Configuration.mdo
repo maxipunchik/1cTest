@@ -40,4 +40,5 @@
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Банки</catalogs>
+  <catalogs>Catalog.Справочник1</catalogs>
 </mdclass:Configuration>
